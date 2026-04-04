@@ -91,25 +91,26 @@ I specialize in:
 
 ## ✦ GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SujalKamate&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
+## ✦ GitHub Trophies
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chinmai2006&theme=tokyonight"/>
+</p>
 ---
 
 ## ✦ GitHub Analytics
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SujalKamate&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SujalKamate&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SujalKamate&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chinmai2006&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chinmai2006&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chinmai2006&theme=tokyonight"/>
 </p>
 
 ---
 ## ✦ Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SujalKamate&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinmai2006&theme=tokyo-night"/>
 </p>
 
 ---
