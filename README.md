@@ -63,7 +63,7 @@ I specialize in:
 • Controls volume, play/pause, and navigation using gestures  
 • Real-time webcam-based interaction system  
 
-# GoodGrid – Professional Networking Platform
+# Gemini GoodGrid – Professional Networking Platform
 • LinkedIn-inspired platform for professionals and students  
 • User profiles, connections, and content sharing features  
 • Modern responsive UI for networking and opportunity discovery  
